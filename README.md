@@ -1,4 +1,5 @@
-# Homework 2
+# IE 201 Homework 2
+## Spring 2022-2023
 ### Due Date: 14.03.2023 23:59
 
 * **Case 1:** You are given a list of lists of integers which are not particularly sorted in any way.
@@ -17,7 +18,7 @@
     * **Task 4:** Find out if a certain integer exists in the set or not.
 
 
-You are expected to test the performances of the code you wrote for each task. Note that in each task, your functions should return a boolean value.
+You are expected to test the performances of the code you wrote for each task. Note that in each task, your functions should return a boolean value. Run the tests in your own environment to make sure that your code works as intended. In VS Code, testing can be done in the panel with the "flask" icon in the left.
 
 Perform the test for `n` = [10, 100, 1000, 10000]
 
